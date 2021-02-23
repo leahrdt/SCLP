@@ -1,0 +1,61 @@
+
+#navbarNav{
+    margin-right: 1rem;
+    display: flex;
+    justify-content: flex-end;  
+}
+
+.var{
+    margin-right: 1.5rem;
+}
+
+.qsomos{
+    padding: 4rem;
+    text-align: center;
+}
+
+#ambRow{
+    display: flex;  
+}
+
+#ambBttn{
+    margin-left: 1rem;
+    align-items: flex-end;
+    padding: 2;
+}
+
+#ambTit{
+    margin-left: 10%;
+    
+    text-align: right;
+}
+
+#botonContacto{
+    color: white;
+    /* background: linear-gradient(45deg, #1b5954 5%, #43bf53 99%); */
+    background: linear-gradient(45deg, black 5%, black 99%);
+    border: 10;
+    border-radius: 20% ;
+    border-color: black;
+    max-width: auto;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    position:fixed !important;
+	  width:auto;
+	  height:auto;
+	  bottom:40px;
+	  right:40px;
+	  margin-top:16px;
+    z-index: 22;
+  }
+
+  #aW{
+    color:white
+  }
+
+#linkW{
+    height: 22,
+
+  }
